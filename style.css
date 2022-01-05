@@ -2,7 +2,7 @@
 html, body {
   margin: 0;
   padding: 0;
-  background: #a31a1a;
+  background: rgb(245, 237, 237);
   font-family: "Roboto";
   -webkit-touch-callout: none;
   -webkit-user-select: none;
